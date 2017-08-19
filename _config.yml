@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://cchacin.github.io/beautybyube/gallery/"
-  - JOURNAL: "https://cchacin.github.io/beautybyube/journal/"
-  - ABOUT: "https://cchacin.github.io/beautybyube/about/"
+  - GALLERY: "http://beautybyube.com/gallery/"
+  - JOURNAL: "http://beautybyube.com/journal/"
+  - ABOUT: "http://beautybyube.com/about/"
 
 # All translation keys
 translations:
